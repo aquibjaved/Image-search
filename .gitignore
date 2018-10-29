@@ -1,1 +1,7 @@
-/fashionmnist/*
+.DS_Store
+fashionmnist/fashion-mnist_test.csv 
+fashionmnist/fashion-mnist_train.csv 
+fashionmnist/t10k-images-idx3-ubyte 
+fashionmnist/t10k-labels-idx1-ubyte 
+fashionmnist/train-images-idx3-ubyte 
+fashionmnist/train-labels-idx1-ubyte 
